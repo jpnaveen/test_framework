@@ -1,0 +1,14 @@
+2026-05-19 09:21:01,081 [INFO] Discovered 1 test file(s). Workers: 1
+2026-05-19 09:21:01,081 [INFO] [GLOBAL_SETUP] Running 2 conftest file(s) from /home/jp/work/claude_projects/sql_test_framework/test/conftest
+2026-05-19 09:21:01,143 [INFO]   [GLOBAL_SETUP] 01_schema.sql
+2026-05-19 09:21:01,311 [INFO]   [GLOBAL_SETUP] 02_reference_data.sql
+2026-05-19 09:21:01,387 [INFO] [SUITE_SETUP] example_test
+2026-05-19 09:21:01,576 [INFO] [SUITE_TEARDOWN] example_test
+2026-05-19 09:21:01,653 [INFO] example_test.sql: [92mPASS[0m
+2026-05-19 09:21:01,654 [INFO] [GLOBAL_TEARDOWN] Running 2 conftest file(s) in reverse order
+2026-05-19 09:21:01,713 [INFO]   [GLOBAL_TEARDOWN] 02_reference_data.sql
+2026-05-19 09:21:01,766 [INFO]   [GLOBAL_TEARDOWN] 01_schema.sql
+2026-05-19 09:21:01,815 [INFO] 
+2026-05-19 09:21:01,816 [INFO] ============================================================
+2026-05-19 09:21:01,816 [INFO]   1 FILES RUN  |  [92m1[0m PASS  |  [91m0[0m FAILED  |  [93m0[0m SKIPPED  |  [94m0[0m PENDING
+2026-05-19 09:21:01,816 [INFO] ============================================================
